@@ -26,19 +26,19 @@ var NAVTREE =
 [
   [ "Algorithms_in_C++", "index.html", [
     [ "The Algorithms - C++", "index.html", "index" ],
-    [ "Contributor Covenant Code of Conduct", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html", [
-      [ "Our Pledge", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html#autotoc_md5", null ],
-      [ "Our Standards", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html#autotoc_md6", null ],
-      [ "Enforcement Responsibilities", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html#autotoc_md7", null ],
-      [ "Scope", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html#autotoc_md8", null ],
-      [ "Enforcement", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html#autotoc_md9", null ],
-      [ "Enforcement Guidelines", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html#autotoc_md10", [
-        [ "1. Correction", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html#autotoc_md11", null ],
-        [ "2. Warning", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html#autotoc_md12", null ],
-        [ "3. Temporary Ban", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html#autotoc_md13", null ],
-        [ "4. Permanent Ban", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html#autotoc_md14", null ]
+    [ "Contributor Covenant Code of Conduct", "d3/dd7/md__c_o_d_e___o_f___c_o_n_d_u_c_t.html", [
+      [ "Our Pledge", "d3/dd7/md__c_o_d_e___o_f___c_o_n_d_u_c_t.html#autotoc_md5", null ],
+      [ "Our Standards", "d3/dd7/md__c_o_d_e___o_f___c_o_n_d_u_c_t.html#autotoc_md6", null ],
+      [ "Enforcement Responsibilities", "d3/dd7/md__c_o_d_e___o_f___c_o_n_d_u_c_t.html#autotoc_md7", null ],
+      [ "Scope", "d3/dd7/md__c_o_d_e___o_f___c_o_n_d_u_c_t.html#autotoc_md8", null ],
+      [ "Enforcement", "d3/dd7/md__c_o_d_e___o_f___c_o_n_d_u_c_t.html#autotoc_md9", null ],
+      [ "Enforcement Guidelines", "d3/dd7/md__c_o_d_e___o_f___c_o_n_d_u_c_t.html#autotoc_md10", [
+        [ "1. Correction", "d3/dd7/md__c_o_d_e___o_f___c_o_n_d_u_c_t.html#autotoc_md11", null ],
+        [ "2. Warning", "d3/dd7/md__c_o_d_e___o_f___c_o_n_d_u_c_t.html#autotoc_md12", null ],
+        [ "3. Temporary Ban", "d3/dd7/md__c_o_d_e___o_f___c_o_n_d_u_c_t.html#autotoc_md13", null ],
+        [ "4. Permanent Ban", "d3/dd7/md__c_o_d_e___o_f___c_o_n_d_u_c_t.html#autotoc_md14", null ]
       ] ],
-      [ "Attribution", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html#autotoc_md15", null ]
+      [ "Attribution", "d3/dd7/md__c_o_d_e___o_f___c_o_n_d_u_c_t.html#autotoc_md15", null ]
     ] ],
     [ "Code style convention", "dc/d64/md__coding_guidelines.html", [
       [ "User-interface", "dc/d64/md__coding_guidelines.html#autotoc_md18", null ],
@@ -77,25 +77,26 @@ var NAVTREE =
       [ "Data Structures", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md49", null ],
       [ "Divide And Conquer", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md50", null ],
       [ "Dynamic Programming", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md51", null ],
-      [ "Geometry", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md52", null ],
-      [ "Graph", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md53", null ],
-      [ "Graphics", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md54", null ],
-      [ "Greedy Algorithms", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md55", null ],
-      [ "Hashing", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md56", null ],
-      [ "Machine Learning", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md57", null ],
-      [ "Math", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md58", null ],
-      [ "Numerical Methods", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md59", null ],
-      [ "Operations On Datastructures", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md60", null ],
-      [ "Others", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md61", null ],
-      [ "Physics", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md62", null ],
-      [ "Probability", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md63", null ],
-      [ "Range Queries", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md64", null ],
-      [ "Search", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md65", null ],
-      [ "Sorting", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md66", null ],
-      [ "Strings", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md67", null ]
+      [ "Games", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md52", null ],
+      [ "Geometry", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md53", null ],
+      [ "Graph", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md54", null ],
+      [ "Graphics", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md55", null ],
+      [ "Greedy Algorithms", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md56", null ],
+      [ "Hashing", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md57", null ],
+      [ "Machine Learning", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md58", null ],
+      [ "Math", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md59", null ],
+      [ "Numerical Methods", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md60", null ],
+      [ "Operations On Datastructures", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md61", null ],
+      [ "Others", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md62", null ],
+      [ "Physics", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md63", null ],
+      [ "Probability", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md64", null ],
+      [ "Range Queries", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md65", null ],
+      [ "Search", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md66", null ],
+      [ "Sorting", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md67", null ],
+      [ "Strings", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md68", null ]
     ] ],
-    [ "Prime factorization", "d7/d7f/section.html", null ],
-    [ "Guidelines for reviewers and maintainers", "dc/db4/md__r_e_v_i_e_w_e_r__c_o_d_e.html", null ],
+    [ "Prime factorization", "d7/deb/md_math_2_r_e_a_d_m_e.html", null ],
+    [ "Guidelines for reviewers and maintainers", "d7/d1b/md__r_e_v_i_e_w_e_r___c_o_d_e.html", null ],
     [ "Todo List", "dd/da0/todo.html", null ],
     [ "Modules", "modules.html", "modules" ],
     [ "Namespaces", "namespaces.html", [
@@ -116,7 +117,7 @@ var NAVTREE =
         [ "Functions", "functions_func.html", "functions_func" ],
         [ "Variables", "functions_vars.html", null ],
         [ "Typedefs", "functions_type.html", null ],
-        [ "Related Functions", "functions_rela.html", null ]
+        [ "Related Symbols", "functions_rela.html", null ]
       ] ]
     ] ],
     [ "Files", "files.html", [
@@ -138,17 +139,18 @@ var NAVTREEINDEX =
 "annotated.html",
 "cpp/iterator/distance.html",
 "cpp/thread/lock.html",
-"d1/d83/classuint256__t.html#acefecc3b1a4044f2be5ab46eea0099bf",
-"d3/d40/graph__coloring_8cpp.html#gae66f6b31b5ad750f1fe042a706a4e3d4",
-"d4/d9c/primes__up__to__billion_8cpp.html#a031cada84819ed6426f58e4f7e81261c",
-"d6/d04/classdata__structures_1_1queue__using__array_1_1_queue___array.html#a9883dfcceede9a42227d2d313ae86f85",
-"d7/d35/matrix__exponentiation_8cpp.html#a600eaf353befc174637855795f12d258",
-"d8/d95/vector__ops_8hpp.html",
-"d9/dae/classdata__structures_1_1_bitset.html#ae86688cf99b77342deedb75149573e73",
-"db/d0d/prime__factorization_8cpp.html#af097796783684712b8326e5b82bfd4fe",
-"dc/d61/classgraph_1_1_graph.html#a59940c462861f2fcf4951d1b6c084e6a",
-"dd/d9c/classmachine__learning_1_1aystar__search_1_1_eight_puzzle.html#aa5c0486c7f29f323a2aced2ab33af420",
-"df/d6b/namespaceciphers_1_1elliptic__curve__key__exchange.html"
+"d1/d83/classuint256__t.html#ac6bdcf64653af8173987bf7217e99056",
+"d3/d26/classdata__structures_1_1trie__using__hashmap_1_1_trie.html#a832072498abeaa52ad43c4fc99cba248",
+"d4/d8d/jarvis__algorithm_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
+"d5/d95/structdata__structures_1_1treap_1_1_treap.html#ab99f68b79e1c4ff0f1cd6f2f0b6a545f",
+"d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html",
+"d8/d77/namespacemachine__learning.html#aa4bbf61e65f8cd297255fa94b983d078",
+"d9/d37/inverse__fast__fourier__transform_8cpp.html#abf9e6b7e6f15df4b525a2e7705ba3089",
+"da/d94/classmachine__learning_1_1k__nearest__neighbors_1_1_knn.html#a16ddc13621eec6ac5f83658b3401a581",
+"db/d9f/iterative__factorial_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
+"dd/d2f/class_trie.html#a6d10eb1669453395d1900ebd401954fb",
+"de/d85/decimal__to__roman__numeral_8cpp.html#a88203bd297e8405160c132faa1187780",
+"functions.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
